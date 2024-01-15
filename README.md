@@ -1,2 +1,2 @@
 # data
-Analysis with Pandas from caliph-witless0h
+Analysis with Pandas by caliph-witless0h
